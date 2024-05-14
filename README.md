@@ -12,7 +12,7 @@ Mis habilidades que van más allá del código, incorporando diseño UX, anális
 
 - Puedes contactarme a través de mi correo electrónico: **<sigrid.muller.vidal@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/smullervidal/)**
-- Puedes visitar mi **[sitio web](https://github.com/SigridMV)**
+- Puedes visitar mi **[sitio web / En contrucción](https://github.com/SigridMV)**
 
 ### 🎨 Frontend
 
@@ -20,11 +20,11 @@ Mis habilidades que van más allá del código, incorporando diseño UX, anális
 
 ### 🔨 Backend
 
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) !
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) !
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### 📎 Herramientas
 
