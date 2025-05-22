@@ -1,18 +1,54 @@
-# Hola 👋, soy Sigrid Valeria Müller Vidal
+# ¡Hola, soy Sigrid Müller Vidal! 👩‍💻
 
-Hace 2 años que me convertí en desarrolladora Full Stack y desde entonces, he estado inmersa en el mundo de la programación. Decidí dar este paso, y hasta el día de hoy, puedo afirmar que no me equivoqué en mi decisión. Me gusta resolver problemas y enfrentar desafíos. Cuando me toca lidear con un problema, mi mente se convierte en un flujo continuo de ideas y soluciones, trabajando incansablemente hasta encontrar la respuesta que necesito.
+Desarrolladora Full Stack apasionada por construir **soluciones digitales de alto impacto**. Mi formación técnica, experiencia en liderazgo y fuerte orientación al usuario me impulsan a crear productos útiles, bien diseñados y sostenibles en el tiempo.
 
-He tenido la oportunidad de trabajar en una variedad de proyectos que me han permitido desarrollar mis habilidades en tecnologías como HTML, CSS, JavaScript, Node.js, así como en frameworks y herramientas como Bootstrap, jQuery, Git y GitHub. Me encanta explorar nuevas formas de crear experiencias digitales impactantes y funcionales. Mi objetivo es crear soluciones digitales pensadas en el usuario y robustas de código.
+---
 
-En cuanto a mi educación, he estudiado de manera online en la Universidad de BYU-Idaho, donde obtuve una certificación en Web and Computer Programming. Actualmente, estoy cursando un certificado en Web Development. Además, participé en un bootcamp de Fullstack Java y en otro bootcamp de JavaScript, lo que amplió mis conocimientos sobre diferentes herramientas tecnológicas. También cursé Análisis de Datos de Google y obtuve una insignia por ser uno de los 100 pioneros en completar el curso de certificación. Todo esto fue posible gracias a las beca de Talento Digital.  Mi objetivo profesional es seguir aprendiendo nuevas tecnologías y prepararme para ser oradora en charlas sobre desarrollo de software y tecnología.
+## 🚀 Sobre mí
 
-Mis habilidades que van más allá del código, incorporando diseño UX, análisis de datos y enfoque comercial. Mi actitud positiva y proactiva se refleja en soluciones eficientes y centradas en el usuario. Con 10 años de experiencia comercial y reconocimientos por contribuciones significativas, busco fusionar tecnología, diseño y negocio para crear soluciones digitales innovadoras. Estoy comprometida con el aprendizaje continuo y el crecimiento profesional.
+Hace dos años decidí reinventarme profesionalmente para convertirme en desarrolladora. Desde entonces, he trabajado en diversos proyectos donde resolví problemas reales con tecnología, combinando habilidades de programación, diseño UX y análisis comercial.
+
+Me apasiona crear experiencias digitales funcionales y accesibles. Cuando enfrento un reto, mi mente se activa en modo creativo para idear soluciones hasta lograr un resultado eficiente y centrado en el usuario.
+
+Tengo más de 10 años de experiencia previa en áreas comerciales, atención al cliente y liderazgo de equipos. Esta experiencia en el mundo real me permite comprender mejor las necesidades de los usuarios finales y traducirlas en productos funcionales.
+
+---
+
+## 📚 Educación
+
+🎓 **Universidad Brigham Young–Idaho**  
+- Bachelor’s Degree en Applied Technology (2022 - Actual)  
+- Associate Degree en Applied Technology (2022 - 2024)
+
+🎓 **BYU PathwayConnect** – Inglés, Liderazgo y Trabajo Colaborativo (2021)  
+🎓 **Talento Digital**  
+- Full Stack Java Developer Trainee (2022)  
+- Full Stack JavaScript Developer Trainee (2023)  
+🎓 **Google**  
+- Fundamentos de Análisis de Datos – Certificación con distinción (Top 100 Pioneros)
+
+---
+
+## 💼 Experiencia
+
+### 👩‍🏫 Mentora – Technovation Girls (2023 - Actual)
+- Guié equipos de niñas en el desarrollo de apps móviles para resolver problemas sociales.
+- Coordiné talleres de tecnología y eventos para inspirar a más jóvenes a programar.
+
+### 🏦 Ejecutiva Comercial – BK Servicios Financieros / BICE Kaufmann (2011 - 2022)
+- Impulsé ventas digitales con plataformas que aumentaron +30% la conversión online.
+- Lideré equipos de ventas, mejorando la satisfacción del cliente en +20%.
+
+### 💳 Asistente Comercial – Crediautos (2011)
+- Logré un aumento del 15% en aprobación de créditos y una tasa del 90% en conversión de llamadas.
+
+---
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<sigrid.muller.vidal@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/smullervidal/)**
-- Puedes visitar mi **[sitio web / En contrucción](https://github.com/SigridMV)**
+- Puedes visitar mi **[Mi portfolio](https://miportfolio-nr82.onrender.com)**
 
 ### 🎨 Frontend
 
