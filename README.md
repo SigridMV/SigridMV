@@ -20,10 +20,13 @@ Tengo más de 10 años de experiencia previa en áreas comerciales, atención al
 - Bachelor’s Degree en Applied Technology (2022 - Actual)  
 - Associate Degree en Applied Technology (2022 - 2024)
 
-🎓 **BYU PathwayConnect** – Inglés, Liderazgo y Trabajo Colaborativo (2021)  
+🎓 **BYU PathwayConnect** 
+– Inglés, Liderazgo y Trabajo Colaborativo (2021)  
+
 🎓 **Talento Digital**  
 - Full Stack Java Developer Trainee (2022)  
-- Full Stack JavaScript Developer Trainee (2023)  
+- Full Stack JavaScript Developer Trainee (2023)
+- 
 🎓 **Google**  
 - Fundamentos de Análisis de Datos – Certificación con distinción (Top 100 Pioneros)
 
