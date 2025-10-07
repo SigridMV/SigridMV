@@ -34,7 +34,7 @@ Tengo más de 10 años de experiencia previa en áreas comerciales, atención al
 
 ## 💼 Experiencia
 
-### 👩‍🏫 Mentora – Technovation Girls (2023 - Actual)
+### 👩‍🏫 Mentora – Technovation Girls (2023)
 - Guié equipos de niñas en el desarrollo de apps móviles para resolver problemas sociales.
 - Coordiné talleres de tecnología y eventos para inspirar a más jóvenes a programar.
 
